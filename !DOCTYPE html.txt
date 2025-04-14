@@ -95,7 +95,7 @@
         <h3>Chatbot Response</h3>
         <p><strong>Answer:</strong> ${answer}</p>
         <p><strong>User Info:</strong> ${fname} ${lname}, ${email}</p>
-        <p><strong>Chatbot Creator:</strong> Likitha Katragadda – katraglk@mail.uc.edu</p>
+        <p><strong>Chatbot Creator:</strong> Rajesh Konganapalli – rajeshkonganapalli24@gmail.com</p>
       `;
     });
   </script>
